@@ -1,0 +1,52 @@
+{
+  "newsData":[
+    {
+      "id": 1,
+      "imageUri": "https://www.appstud.com/wp-content/uploads/2018/03/React-Native-Titre.png",
+      "title": "Как стать фулстек-разработчиком мобильных приложений",
+      "views": "2",
+      "time": "5",
+      "content": "Теперь поговорим о том, кто реализует фронтенд. Если бы речь шла о разработке сайтов, я бы написал, что для создания фронта нужен фронтенд-разработчик. Но в мобильной разработке все немного запутаннее: здесь фронтендом занимаются разработчики кроссплатформенных решений и разработчики нативных приложений. Unexpected end of string.json(258)"
+    },
+    {
+      "id": 2,
+      "imageUri": "data:image/png;base64,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",
+      "title": "Flutter vs React-Native: детальное сравнение",
+      "views": "4",
+      "time": "3",
+      "content": "Flutter — это технология, которая в настоящее время вызывает ажиотаж в мобильной разработке. Его стали чаще выбирать для создания новых приложений, а некоторые разработчики переписывают на Flutter даже старые приложения, по сути, без каких-то видимых на то причин."
+    },
+    {
+      "id": 3,
+      "imageUri": "https://habrastorage.org/webt/rm/kt/z6/rmktz63wonvr2jf4eibvooq2aas.png",
+      "title": "Личная поваренная книга SwiftUI-рецептов",
+      "views": "200",
+      "time": "2",
+      "content": "Когда начинаешь исследовать какую-то обширную тему в программировании, количество скачанных проектов и созданных черновиков постепенно превышает все мыслимые и немыслимые пределы. А потом и вовсе всё перемешивается и теряется. "
+    },
+    {
+      "id": 4,
+      "imageUri": "https://www.ixbt.com/img/n1/news/2019/6/2/original_iOS-vs-Android_large.png",
+      "title": "Бесконечная война: кто круче — Android или iOS разработчики?",
+      "views": "120",
+      "time": "1",
+      "content": "Это гостевой материал. Мнение редакции может не совпадать с мнениями, высказанными в статье.Android или iOS  — дискуссии на эту тему зачастую похожи на яростные споры религиозных фанатиков. Причем стереотипы бывают как беспочвенные, так и вполне имеющие основания. Например, iOS разработчиков из-за любви к красивой картинке и стильной одежде иногда обзывают утонченными мужеложцами, а Android из-за присущей им суровос"
+    },
+    {
+      "id": 5,
+      "imageUri": "https://www.xenonstack.com/images/blog/Java-vs-Kotlin.jpg",
+      "title": "Java vs Kotlin для Android-разработки: ответы «за» и «против»",
+      "views": "90",
+      "time": "6",
+      "content": "Когда в мае 2019 года компания Google объявила Kotlin предпочтительным языком для Android-разработки, споры по выбору языка разгорелись с новой силой. С одной стороны, всё"
+    },
+    {
+      "id": 6,
+      "imageUri": "https://phauer.com/blog/2019/06-modern-best-practices-testing-java/featured-image-large.png",
+      "title": "Как мы сократили регрессионное тестирование в 4 раза",
+      "views": "700",
+      "time": "11",
+      "content": "Меня зовут Александр Наташкин, я уже более 7 лет работаю в сфере тестирования.В конце 2016 года меня пригласили в компанию «Яндекс.Деньги» возглавить мобильное тестирование и обеспечить достойное качество выпускаемых мобиль"
+    }
+  ]
+}
